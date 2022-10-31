@@ -1,0 +1,108 @@
+body{
+    margin: 0 0 100px 0;
+}
+span{
+    color: red;
+}
+#h1{
+    position: absolute;
+    display: inline-block;
+    color: aliceblue;
+    top:150px;
+    left:655px;
+    font-family: 'Fjalla One', sans-serif;
+    width: 30%;
+}
+#h2{
+    position: absolute;
+    display: inline-block;
+    color: aliceblue;
+    top:200px;
+    left:670px;
+    font-family: 'Fjalla One', sans-serif;
+}
+#h3{
+    position: absolute;
+    display: inline-block;
+    color: aliceblue;
+    top: 255px;
+    left: 720px;
+    font-family: 'Fjalla One', sans-serif;
+}
+#h4{
+    position: absolute;
+    display: inline-block;
+    color: aliceblue;
+    top: 230px;
+    left: 750px;
+    font-family: 'Fjalla One', sans-serif;
+}
+.menu{
+    position: absolute;
+    font-size: 10px;
+    color: aliceblue;
+    margin-top: 0px;
+    right:40px;
+}
+
+.le{
+    margin-left:15px;
+    
+    margin-right: 15px; 
+}
+.imp{
+    position: relative;
+    top:50px;
+}
+.bl{
+    display: inline-block;
+    position: absolute;
+    left:150px;
+    width:500px;
+    line-height: 1.5;
+}
+.br{
+    width: 300px;
+    display: inline-block;
+    position: absolute;
+    top:500px;
+    right:150px;
+    top:650px;
+    border-style: groove;
+    padding: 10px;
+    text-align: justify;
+}
+.c{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-family: 'Rubik', sans-serif;
+}
+#img1{
+    display: inline-block;
+    width: 100%;
+    height: 600px;
+}
+
+#reg{
+    padding-top: 20px;
+    padding-bottom: 15px;
+    position: relative;
+    display: inline-block;
+    background-color: red;
+    
+}
+.w{
+    
+    display: block;
+    position: absolute;
+    height: 100px;
+    width:50px;
+    margin-top: 300px;
+}
+#abt{
+     margin-top: 0;
+     font-family: 'Rubik', sans-serif;
+}
+.psg{
+    font-family: 'Roboto Slab', serif
+}
