@@ -1,6 +1,7 @@
 body{
     margin: 0;
     background-color: rgb(235, 235, 235);
+    padding-bottom: 20px;
 }
 h1{ 
     text-align: center;
@@ -73,7 +74,8 @@ p{
     margin: 0 25px 0 25px;
     overflow: hidden;
     overflow-y: scroll;
-    scrollbar-width: 5px;
+    scroll-behavior: smooth;
+    
 }
 
 .img{

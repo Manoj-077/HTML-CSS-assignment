@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+    padding-right: 100px;
+}
+h4{
+    font-family: 'Kanit', sans-serif;
+}
+h5{
+    font-family: 'Kanit', sans-serif;
+    font-weight: 100;
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+}
+#border{
+    border-style: groove;
+    position: relative;
+    top:20px;
+    padding: 10px;      
+    border-color: rgb(237, 0, 0);
+}
+
+.top{
+    
+    position: absolute;
+    display: flex;
+    top: 100px;
+    left:228px;
+    text-align: center;
+}
+.mid{
+    display: inline-block;
+    position: absolute;
+}
+.gr{
+    margin: 0 130px 0 130px;
+}
+.d{
+    margin:0 0 3px 0;
+}
+#download{
+    
+    color: rgb(232, 0, 0); 
+}
+
+#clock{
+position: relative;  
+}
+#location{
+   
+}
+.g{
+    width: 40px;
+    height: 40px;  
+}
+img{
+    position: relative;
+    width: 1520px;
+    height: 350px;
+}
+#b{
+    position:relative;
+    left:3px; 
+    bottom:5px;
+    margin-top: 0;  
+}
+#dt{
+    position: relative;
+    top:3px;
+}
+.dl1{
+    margin: 0;
+    position: relative;
+   
+}
+.dl2{
+    margin: 2px 0 0 0;
+    position: relative;  
+}
+.end{
+    margin-bottom: 170px;
+}
+
+#tm{
+    display: inline-block;
+    width: 1520px;
+    position: relative;
+    height:350px;
+}
+.tedx{
+    position: relative;
+    top:100px;
+    left:100px;
+}
+#ted{
+    
+    height: 25px;
+    width: auto;  
+}
+
+#fb{
+    display: inline-block;
+    position:absolute;
+    right:450px;
+    bottom: 30px;
+    color: grey;
+}
+#twtr{
+    display: inline-block;
+    position:absolute;
+    right:370px;
+    bottom: 30px;
+    color: grey;
+}
+#insta{
+    display: inline-block;
+    position:absolute;
+    right:290px;
+    bottom: 30px;
+    color: grey;
+}
